@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Viraj1923/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Viraj1923/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Viraj1923/DSA/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Viraj1923/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Viraj1923/DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Viraj1923/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Viraj1923/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -51,12 +52,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Viraj1923/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Viraj1923/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Viraj1923/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Viraj1923/DSA/tree/master/0229-majority-element-ii) |
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Viraj1923/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Viraj1923/DSA/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
