@@ -46,10 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Viraj1923/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Viraj1923/DSA/tree/master/0189-rotate-array) |
+| [1486-xor-operation-in-an-array](https://github.com/Viraj1923/DSA/tree/master/1486-xor-operation-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Viraj1923/DSA/tree/master/0136-single-number) |
+| [1486-xor-operation-in-an-array](https://github.com/Viraj1923/DSA/tree/master/1486-xor-operation-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
