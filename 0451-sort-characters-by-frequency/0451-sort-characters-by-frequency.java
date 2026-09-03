@@ -8,7 +8,7 @@ class Solution {
         }
 
         List<Map.Entry<Character,Integer>> list=new ArrayList<>(map.entrySet());
-        list.sort((a,b) -> b.getValue() - a.getValue());
+        list.sort((a, b) -> Integer.compare(b.getValue(), a.getValue()));
 
         for (Map.Entry<Character, Integer> entry : list) {
             char ch = entry.getKey();
