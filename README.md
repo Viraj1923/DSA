@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Viraj1923/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Viraj1923/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Viraj1923/DSA/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/Viraj1923/DSA/tree/master/0443-string-compression) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Viraj1923/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Viraj1923/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Viraj1923/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Viraj1923/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0443-string-compression](https://github.com/Viraj1923/DSA/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Viraj1923/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Viraj1923/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/Viraj1923/DSA/tree/master/0796-rotate-string) |
