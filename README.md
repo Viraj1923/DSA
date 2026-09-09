@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Viraj1923/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Viraj1923/DSA/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/Viraj1923/DSA/tree/master/0443-string-compression) |
+| [0876-middle-of-the-linked-list](https://github.com/Viraj1923/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Viraj1923/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -253,4 +254,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Viraj1923/DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Viraj1923/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
