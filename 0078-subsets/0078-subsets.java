@@ -1,18 +1,29 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
-        List<List<Integer>> list = new ArrayList<>();
-        Arrays.sort(nums);
-        backtrack(list, new ArrayList<>(), nums, 0);
-        return list;
+        List<List<Integer>> result = new ArrayList<>();
+
+        backtrack(0, nums, new ArrayList<>(), result);
+
+        return result;
     }
 
-    private static void backtrack(List<List<Integer>> list, List<Integer> tempList, int [] nums, int start){
-        list.add(new ArrayList<>(tempList));
-        for(int i = start; i < nums.length; i++){
-            if(i > start && nums[i] == nums[i-1]) continue; // skip duplicates
-            tempList.add(nums[i]);
-            backtrack(list, tempList, nums, i + 1);
-            tempList.remove(tempList.size() - 1);
+    private void backtrack(int index, int[] nums,
+                           List<Integer> current,
+                           List<List<Integer>> result) {
+
+        if (index == nums.length) {
+            result.add(new ArrayList<>(current));
+            return;
         }
-    } 
+
+        // TAKE
+        current.add(nums[index]);
+        backtrack(index + 1, nums, current, result);
+
+        // UNDO
+        current.remove(current.size() - 1);
+
+        // SKIP
+        backtrack(index + 1, nums, current, result);
+    }
 }
