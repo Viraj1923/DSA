@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Viraj1923/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Viraj1923/DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Viraj1923/DSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Viraj1923/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Viraj1923/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Viraj1923/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Viraj1923/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Viraj1923/DSA/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/Viraj1923/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Viraj1923/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Viraj1923/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Viraj1923/DSA/tree/master/0205-isomorphic-strings) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Viraj1923/DSA/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Viraj1923/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Viraj1923/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Viraj1923/DSA/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Viraj1923/DSA/tree/master/0078-subsets) |
 ## Merge Sort
 |  |
