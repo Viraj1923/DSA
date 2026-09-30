@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Viraj1923/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Viraj1923/DSA/tree/master/0136-single-number) |
 | [1486-xor-operation-in-an-array](https://github.com/Viraj1923/DSA/tree/master/1486-xor-operation-in-an-array) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Viraj1923/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Hash Table
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Viraj1923/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Viraj1923/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Viraj1923/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Viraj1923/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
 |  |
 | ------- |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Viraj1923/DSA/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Viraj1923/DSA/tree/master/0078-subsets) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Viraj1923/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Merge Sort
 |  |
 | ------- |
