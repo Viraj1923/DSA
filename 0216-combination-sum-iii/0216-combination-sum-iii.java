@@ -12,9 +12,6 @@ class Solution {
             }
             return;
         }
-        if(current.size()==k && n!=0){
-            return;
-        }
         if(n<0){
             return;
         }
