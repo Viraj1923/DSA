@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/Viraj1923/DSA/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/Viraj1923/DSA/tree/master/0180-consecutive-numbers) |
 | [0184-department-highest-salary](https://github.com/Viraj1923/DSA/tree/master/0184-department-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/Viraj1923/DSA/tree/master/0185-department-top-three-salaries) |
 | [0585-investments-in-2016](https://github.com/Viraj1923/DSA/tree/master/0585-investments-in-2016) |
 | [0607-sales-person](https://github.com/Viraj1923/DSA/tree/master/0607-sales-person) |
 | [1341-movie-rating](https://github.com/Viraj1923/DSA/tree/master/1341-movie-rating) |
