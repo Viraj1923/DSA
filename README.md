@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Viraj1923/DSA/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Viraj1923/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Viraj1923/DSA/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/Viraj1923/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Viraj1923/DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Viraj1923/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Viraj1923/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Viraj1923/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Viraj1923/DSA/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/Viraj1923/DSA/tree/master/0443-string-compression) |
+| [0455-assign-cookies](https://github.com/Viraj1923/DSA/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Viraj1923/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Viraj1923/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Viraj1923/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -134,11 +136,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Viraj1923/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Viraj1923/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Viraj1923/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/Viraj1923/DSA/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Viraj1923/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Viraj1923/DSA/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/Viraj1923/DSA/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -261,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Viraj1923/DSA/tree/master/0455-assign-cookies) |
 | [1903-largest-odd-number-in-string](https://github.com/Viraj1923/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
