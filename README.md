@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Viraj1923/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Viraj1923/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Viraj1923/DSA/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Viraj1923/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Viraj1923/DSA/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Viraj1923/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Viraj1923/DSA/tree/master/0075-sort-colors) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Viraj1923/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Viraj1923/DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Viraj1923/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Viraj1923/DSA/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Viraj1923/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Viraj1923/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Viraj1923/DSA/tree/master/0131-palindrome-partitioning) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Viraj1923/DSA/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Viraj1923/DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Viraj1923/DSA/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/Viraj1923/DSA/tree/master/1903-largest-odd-number-in-string) |
