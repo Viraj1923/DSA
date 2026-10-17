@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/Viraj1923/DSA/tree/master/0180-consecutive-numbers) |
 | [0184-department-highest-salary](https://github.com/Viraj1923/DSA/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/Viraj1923/DSA/tree/master/0185-department-top-three-salaries) |
+| [0511-game-play-analysis-i](https://github.com/Viraj1923/DSA/tree/master/0511-game-play-analysis-i) |
 | [0585-investments-in-2016](https://github.com/Viraj1923/DSA/tree/master/0585-investments-in-2016) |
 | [0607-sales-person](https://github.com/Viraj1923/DSA/tree/master/0607-sales-person) |
 | [1070-product-sales-analysis-iii](https://github.com/Viraj1923/DSA/tree/master/1070-product-sales-analysis-iii) |
