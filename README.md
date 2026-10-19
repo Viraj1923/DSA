@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Viraj1923/DSA/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Viraj1923/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Viraj1923/DSA/tree/master/0283-move-zeroes) |
+| [0435-non-overlapping-intervals](https://github.com/Viraj1923/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Viraj1923/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Viraj1923/DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Viraj1923/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Viraj1923/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Viraj1923/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Viraj1923/DSA/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/Viraj1923/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Viraj1923/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Viraj1923/DSA/tree/master/0455-assign-cookies) |
 ## Quicksort
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Viraj1923/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Viraj1923/DSA/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Viraj1923/DSA/tree/master/0152-maximum-product-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/Viraj1923/DSA/tree/master/0435-non-overlapping-intervals) |
 ## Simulation
 |  |
 | ------- |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Viraj1923/DSA/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/Viraj1923/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Viraj1923/DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Viraj1923/DSA/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/Viraj1923/DSA/tree/master/1903-largest-odd-number-in-string) |
