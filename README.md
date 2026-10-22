@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Viraj1923/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Viraj1923/DSA/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/Viraj1923/DSA/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Viraj1923/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -400,4 +401,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Viraj1923/DSA/tree/master/0079-word-search) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Viraj1923/DSA/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Viraj1923/DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
