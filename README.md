@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0607-sales-person](https://github.com/Viraj1923/DSA/tree/master/0607-sales-person) |
 | [0627-swap-sex-of-employees](https://github.com/Viraj1923/DSA/tree/master/0627-swap-sex-of-employees) |
 | [1045-customers-who-bought-all-products](https://github.com/Viraj1923/DSA/tree/master/1045-customers-who-bought-all-products) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Viraj1923/DSA/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1070-product-sales-analysis-iii](https://github.com/Viraj1923/DSA/tree/master/1070-product-sales-analysis-iii) |
 | [1341-movie-rating](https://github.com/Viraj1923/DSA/tree/master/1341-movie-rating) |
 ## Linked List
