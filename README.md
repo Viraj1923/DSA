@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Viraj1923/DSA/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Viraj1923/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Viraj1923/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/Viraj1923/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Viraj1923/DSA/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/Viraj1923/DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Viraj1923/DSA/tree/master/0875-koko-eating-bananas) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Viraj1923/DSA/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/Viraj1923/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Viraj1923/DSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Viraj1923/DSA/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Viraj1923/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Viraj1923/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Viraj1923/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Viraj1923/DSA/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/Viraj1923/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Viraj1923/DSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Viraj1923/DSA/tree/master/0844-backspace-string-compare) |
 | [0907-sum-of-subarray-minimums](https://github.com/Viraj1923/DSA/tree/master/0907-sum-of-subarray-minimums) |
