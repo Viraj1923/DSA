@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Viraj1923/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/Viraj1923/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Viraj1923/DSA/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Viraj1923/DSA/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/Viraj1923/DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Viraj1923/DSA/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Viraj1923/DSA/tree/master/0904-fruit-into-baskets) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Viraj1923/DSA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Viraj1923/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Viraj1923/DSA/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Viraj1923/DSA/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Viraj1923/DSA/tree/master/0844-backspace-string-compare) |
 | [0907-sum-of-subarray-minimums](https://github.com/Viraj1923/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/Viraj1923/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -454,5 +456,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Viraj1923/DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Viraj1923/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Viraj1923/DSA/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Viraj1923/DSA/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Viraj1923/DSA/tree/master/0907-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->
