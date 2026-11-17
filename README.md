@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Viraj1923/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Viraj1923/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Viraj1923/DSA/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/Viraj1923/DSA/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/Viraj1923/DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Viraj1923/DSA/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Viraj1923/DSA/tree/master/0904-fruit-into-baskets) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Viraj1923/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Viraj1923/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Viraj1923/DSA/tree/master/0455-assign-cookies) |
+| [0853-car-fleet](https://github.com/Viraj1923/DSA/tree/master/0853-car-fleet) |
 ## Quicksort
 |  |
 | ------- |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Viraj1923/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Viraj1923/DSA/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Viraj1923/DSA/tree/master/0844-backspace-string-compare) |
+| [0853-car-fleet](https://github.com/Viraj1923/DSA/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/Viraj1923/DSA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Viraj1923/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/Viraj1923/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Viraj1923/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Viraj1923/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Viraj1923/DSA/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/Viraj1923/DSA/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/Viraj1923/DSA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Viraj1923/DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Data Stream
